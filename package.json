@@ -1,12 +1,9 @@
 {
-  "homepage": "https://NourM21.github.io/Focal_X_Task_3_1/",
   "name": "react-js-task-2-1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
